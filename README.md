@@ -1,7 +1,9 @@
 ## Hi there 👋
 <p align="center">
   <img src="pics/header.png">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=000000&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm Liam!" alt="Typing SVG" />
+   <h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=whitefont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Liam!;" />
+</h1>
 </p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=selerqc.selerqc" />
@@ -9,9 +11,7 @@
 <p align="center">
   <img src="https://media4.giphy.com/media/2meJwKScDagGBB0wSV/200.webp" width="400" height="200"/>
 </p>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=whitefont=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Charles+Agustin!;" />
-</h1>
+
 
 
 <h3 align="center">A passionate software developer from Philippines</h3>
