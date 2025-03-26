@@ -32,26 +32,10 @@
 ---
 
 ### 🛠️ Languages & Tools:
-<table align="center" style="background-color='#f0f0f0';">
-  <tr>
-    <td align="center" bgcolor="#f0f0f0"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></td>
-    <td align="center" bgcolor="#f0f0f0"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></td>
-    <td align="center" bgcolor="#f0f0f0"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/></td>
-    <td align="center" bgcolor="#f0f0f0"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/></td>
-    <td align="center" bgcolor="#f0f0f0"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="Vue.js" width="40" height="40"/></td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></td>
-    <td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express.js" width="40" height="40"/></td>
-    <td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></td>
-    <td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></td>
-    <td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/></td>
-  </tr>
-  <tr>
-    <td align="center" bgcolor="#f0f0f0"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="Kotlin" width="40" height="40"/></td>
-    <td align="center" bgcolor="#f0f0f0"><img src="https://reactnative.dev/img/header_logo.svg" alt="React Native" width="40" height="40"/></td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,mongodb,kotlin,python,js,html,css,express,react,nodejs,vite,mysql,vue" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,windows,linux,git,github" />
+</p>
 
 ---
 
