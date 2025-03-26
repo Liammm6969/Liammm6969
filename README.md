@@ -1,5 +1,6 @@
 ## Hi there 👋
 <p align="center">
+  <p align="right"> <img src="https://komarev.com/ghpvc/?username=liammm6969&label=Profile%20views&color=0e75b6&style=flat" alt="liammm6969" /> </p>
   <img src="pics/header.png">
   <br>
 <h1 align="center">
@@ -8,7 +9,7 @@
 </p>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liammm6969&label=Profile%20views&color=0e75b6&style=flat" alt="liammm6969" /> </p>
+
 
 - 🔭 I’m currently working on **Laundry Management System**
 
