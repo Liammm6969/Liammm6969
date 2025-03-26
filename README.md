@@ -1,6 +1,6 @@
 ## Hi there 👋
 <p align="center">
-  ![Mark William Pajarillo (1)](https://github.com/user-attachments/assets/7d73a9ba-6c42-4dbf-9b3f-27539260d063)
+ <img src="pics/header.png">
 </p>
 <!--
 **Liammm6969/Liammm6969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
