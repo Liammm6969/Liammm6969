@@ -1,5 +1,7 @@
 ## Hi there 👋
-
+<p align="center">
+  <img src="pics/">
+</p>
 <!--
 **Liammm6969/Liammm6969** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
