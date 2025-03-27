@@ -21,7 +21,7 @@
 
 ### 📫 Connect with me:
 <p align="left">
-  <a href="=https://www.facebook.com/Liam2104" target="blank">
+  <a href="https://www.facebook.com/Liam2104" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="william pajarillo" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/liamz_er/" target="blank">
