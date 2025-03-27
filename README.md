@@ -38,6 +38,8 @@
 </p>
 
 ---
+<p align="center">
+  🔥 **Fun fact:** _"If you are not obsessed with your life, change it."_
+</p>
 
-🔥 **Fun fact:** _"If you are not obsessed with your life, change it."_
 
