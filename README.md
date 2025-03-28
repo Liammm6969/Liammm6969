@@ -46,11 +46,15 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Liammm6969/Liammm6969/output/github-contribution-grid-snake.svg" />
   <br/><br/><br/>
 </div>
+
 ---
-### 🥷 MY Master
+<div align="center">
+  ### 🥷 MY Master
 <p>
   <img src="https://github.com/user-attachments/assets/b7c82288-9b75-47de-9a2a-eabcc0c76d42"/>
 </p>
+</div>
+
 
 
 ---
