@@ -49,9 +49,10 @@
 
 ---
 <div align="center">
-  <h2>🥷 MY Master </h2>
+  <h2>🥷 My Master </h2>
 <p>
   <img src="https://github.com/user-attachments/assets/b7c82288-9b75-47de-9a2a-eabcc0c76d42"/>
+  <span><a href="https://github.com/selerqc"></a></span>
 </p>
 </div>
 
