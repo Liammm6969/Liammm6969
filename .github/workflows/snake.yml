@@ -12,14 +12,13 @@ jobs:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate snake animation with dark mode
+      - name: Generate snake animation with black background
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/github-contribution-grid-snake.svg
-          palette: "github-dark"
-          color_snake: "#800080" # Snake color (purple example)
-          color_dots: "#000000" # Make dots blend into the background
+          color_snake: "#800080" # Change snake color (Purple)
+          color_dots: "#000000,#222222,#444444,#666666,#888888" # Blend into dark mode
 
       - name: Push the animation to the output branch
         uses: crazy-max/ghaction-github-pages@v3
