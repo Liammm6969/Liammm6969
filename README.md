@@ -53,7 +53,7 @@
   <p>
     </br>
     <a class="no-underline" href="https://github.com/selerqc"> 
-      <img src="https://github.com/user-attachments/assets/b7c82288-9b75-47de-9a2a-eabcc0c76d42" width="150" height="150" border-radius="100%"/>
+      <img src="https://github.com/user-attachments/assets/b7c82288-9b75-47de-9a2a-eabcc0c76d42" width="150" height="150"/>
     </a>
   </p>
 </div>
