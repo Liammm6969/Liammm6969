@@ -1,19 +1,21 @@
-name: Generate Snake Contribution Grid
+name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *" # Runs daily at midnight UTC
+    - cron: "0 */12 * * *"  # Runs every 12 hours
   workflow_dispatch:
 
+# Explicitly define job permissions
+permissions:
+  contents: write
+
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
-      - name: Generate snake animation with dark grid
-        uses: Platane/snk@v3
+      - uses: actions/checkout@v3
+     
+      - uses: Platane/snk@v3
         with:
           # github user name to read the contribution graph from (**required**)
           # using action context var `github.repository_owner` or specified user
@@ -26,9 +28,12 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
             dist/github-contribution-grid-snake.svg
-
-      - name: Push the animation to the output branch
-        uses: crazy-max/ghaction-github-pages@v3
+     
+      # Debug step to see current directory content  
+      - name: List output files
+        run: ls -la dist/
+           
+      - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
           build_dir: dist
