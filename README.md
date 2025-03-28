@@ -48,7 +48,7 @@
 </div>
 
 ---
-<div align="center">
+<div align="right">
   <h2>🥷 My Master </h2>
   <p>
     </br>
