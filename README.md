@@ -59,7 +59,7 @@
 
 ---
 <p align="center">
-  🔥 <b>Fun fact:</b> <i>"If you are not obsessed with your life, change it."</i>
+  <i>"If you are not obsessed with your life, change it."</i>
 </p>
 
 
