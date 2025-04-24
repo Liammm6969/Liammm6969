@@ -44,15 +44,6 @@
 
 
 ---
-<div align="right">
-  <h2>🥷 My Pogi Master </h2>
-  <p>
-    </br>
-    <a class="no-underline" href="https://github.com/selerqc"> 
-      <img src="https://github.com/user-attachments/assets/b7c82288-9b75-47de-9a2a-eabcc0c76d42" width="150" height="150"/>
-    </a>
-  </p>
-</div>
 
 <p align="center">
   <i>"If you are not obsessed with your life, change it."</i>
