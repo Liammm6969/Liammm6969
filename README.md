@@ -31,7 +31,7 @@
 
 ### 🛠️ Languages & Tools:
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,mongodb,kotlin,python,js,html,css,express,react,nodejs,vite,mysql,vue" />
+  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,mongodb,kotlin,python,js,html,css,express,react,nodejs,vite,mysql" />
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,windows,git,github" />
 </p>
 
