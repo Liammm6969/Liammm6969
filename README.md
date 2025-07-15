@@ -11,7 +11,7 @@
 
 <h3 align="center">A passionate frontend developer from the Philippines</h3>
 
-- 🔭 I’m currently working on a **Digital Banking System** with 3 of my classmates
+- 🔭 I’m currently working on **MediSync** with @seleraqc
 - 🌱 I’m currently learning **MERN Stack + Machine Learning (especially backend)**  
 - 🤝 I’m looking for help with **JavaScript**  
 
