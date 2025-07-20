@@ -18,7 +18,7 @@
 ---
 
 ### 🚀 Projects:
-- 📝 [MyTodo App](https://mytodoio.netlify.app/) — A simple and clean to-do list web app
+- 📝 [MyTodo App](https://my-todo-app-io.netlify.app/) — A simple and clean to-do list web app
 
 ---
 
