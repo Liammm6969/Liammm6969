@@ -20,6 +20,9 @@
 ### 🚀 Projects:
 - 📝 [MyTodo App](https://my-todo-app-io.netlify.app/) — A simple and clean to-do list web app
 
+### Project with teams:
+- [PNB Digital Banking System] (https://pnb-client.vercel.app/) - A Banking System that streamlines seamless transactions with different projects
+
 ---
 
 ### 📫 Connect with me:
