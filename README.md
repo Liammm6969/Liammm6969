@@ -22,7 +22,7 @@
 
 ### Project with teams:
 - 🏦 [PNB Digital Banking System](https://pnb-client.vercel.app/) - A Banking System that streamlines seamless transactions with different projects
-
+ 👥 Collaborated with: [Agustin, Charles](https://github.com/selerqc) | [Mendoza, Jaymes](https://github.com/JaymesMendoza) | [Yuzon, Tristam Justine](https://github.com/Buchi-dev)
 ---
 
 ### 📫 Connect with me:
