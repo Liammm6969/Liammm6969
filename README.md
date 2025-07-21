@@ -14,7 +14,7 @@
 
 ---
 
-- 🔭 I’m currently working on **MediSync** with [@seleraqc](https://github.com/seleraqc)  
+- 🔭 I’m currently working on **MediSync** with [@seleraqc](https://github.com/selerqc)
 - 🌱 I’m currently learning **MERN Stack + Machine Learning (especially backend)**  
 - 🤝 I’m looking for help with **JavaScript**
 
