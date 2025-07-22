@@ -22,9 +22,12 @@
 
 ### 🚀 Projects
 
+### 🚀 Projects
+
 - 📝 [MyTodo App](https://my-todo-app-io.netlify.app/) — A simple and clean to-do list web app  
-- 🌐 [Portfolio](https://your-portfolio-link.netlify.app/) — Check out my portfolio website  
+- [![Portfolio](https://img.shields.io/badge/Portfolio-%23ff4081?style=for-the-badge&logo=ko-fi&logoColor=white)](https://your-portfolio-link.netlify.app/)  
 - [ZaHaus](https://za-haus.vercel.app/) - A pizza restaurant website
+
 
 #### 👥 Team Projects
 
@@ -45,23 +48,11 @@
   <a href="https://www.instagram.com/liamz_er/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-
-  <!-- Portfolio Button -->
-  <a href="https://your-portfolio-link.netlify.app/" target="_blank" style="
-    margin-left: 15px;
-    background-color: #ff4081;
-    color: white;
-    padding: 8px 16px;
-    border-radius: 20px;
-    font-weight: 700;
-    font-size: 14px;
-    text-decoration: none;
-    box-shadow: 0 4px 8px rgba(255, 64, 129, 0.4);
-    transition: background-color 0.3s ease;
-  " onmouseover="this.style.backgroundColor='#e91e63'" onmouseout="this.style.backgroundColor='#ff4081'">
-    🚀 Portfolio
+  <a href="https://your-portfolio-link.netlify.app/" target="_blank" style="margin-left: 10px;">
+    [![Portfolio](https://img.shields.io/badge/Portfolio-%23ff4081?style=for-the-badge&logo=ko-fi&logoColor=white)](https://your-portfolio-link.netlify.app/)
   </a>
 </p>
+
 
 ---
 
