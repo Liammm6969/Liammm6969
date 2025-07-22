@@ -48,9 +48,6 @@
   <a href="https://www.instagram.com/liamz_er/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
   </a>
-  <a href="https://your-portfolio-link.netlify.app/" target="_blank" style="margin-left: 10px;">
-    [Portfolio](https://img.shields.io/badge/Portfolio-%23ff4081?style=for-the-badge&logo=ko-fi&logoColor=white)][(https://your-portfolio-link.netlify.app/](https://liam-portfolio-web.netlify.app/))
-  </a>
 </p>
 
 
