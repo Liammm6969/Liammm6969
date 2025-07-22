@@ -4,6 +4,7 @@
 
 <p align="center">
   <img src="pics/header.png" alt="Header Image" />
+  [![Portfolio](https://img.shields.io/badge/Portfolio-%23ff4081?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://your-portfolio-link.netlify.app/](https://liam-portfolio-web.netlify.app/))  
 </p>
 
 <h1 align="center">
@@ -25,7 +26,7 @@
 ### 🚀 Projects
 
 - 📝 [MyTodo App](https://my-todo-app-io.netlify.app/) — A simple and clean to-do list web app  
-- [![Portfolio](https://img.shields.io/badge/Portfolio-%23ff4081?style=for-the-badge&logo=ko-fi&logoColor=white)]([https://your-portfolio-link.netlify.app/](https://liam-portfolio-web.netlify.app/))  
+- 
 - [ZaHaus](https://za-haus.vercel.app/) - A pizza restaurant website
 
 
