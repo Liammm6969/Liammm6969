@@ -6,7 +6,7 @@
   <img src="pics/header.png" alt="Header Image" />
 </p>
 
- [![Portfolio](https://img.shields.io/badge/Portfolio-%23ff4081?style=for-the-badge&logo=ko-fi&logoColor=white)](https://liam-portfolio-web.netlify.app/)  
+ [![Portfolio](https://img.shields.io/badge/Portfolio-%23ff4081?style=for-the-badge&logo=ko-fi&logoColor=white)](https://liampajarillo.netlify.app/  
 
 
 <h1 align="center">
