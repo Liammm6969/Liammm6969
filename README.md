@@ -55,9 +55,9 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,dotnet,mongodb,kotlin,python,js,html,css,express,react,nodejs,vite,mysql" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=java,cs,mongodb,js,html,css,express,react,nodejs,mysql" alt="Languages" />
   <br />
-  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,windows,git,github" alt="Tools" />
+  <img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,git,github" alt="Tools" />
 </p>
 
 ---
