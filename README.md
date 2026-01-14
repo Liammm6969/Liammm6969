@@ -35,7 +35,9 @@
   - [Agustin, Charles](https://github.com/selerqc)  
   - [Mendoza, Jaymes](https://github.com/JaymesMendoza)  
   - [Yuzon, Tristam Justine](https://github.com/Buchi-dev)
-
+- MediSync - A Medical Information System with Decision Support System
+  Collaborator:
+  - [Agustin, Charles](https://github.com/selerqc)
 ---
 
 ### 📫 Connect with Me
