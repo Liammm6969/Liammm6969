@@ -58,7 +58,7 @@
 ### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,express,react,nodejs, typescript" alt="Languages" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,express,react,nodejs" alt="Languages" />
   <br />
   <img src="https://skillicons.dev/icons?i=vscode,visualstudio,windows,git,github,mongodb" alt="Tools" />
 </p>
