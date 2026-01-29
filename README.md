@@ -10,6 +10,9 @@
   <a href="https://liampajarillo.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
+  <a href="https://linked.com/in/mark-william-pajarillo-6abb87376">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" />
+  </a>
 </p>
 
 <h3 align="center">An aspiring Web Developer from the Philippines</h3>
