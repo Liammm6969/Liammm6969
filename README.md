@@ -6,7 +6,7 @@
   <img src="pics/header.png" alt="Header Image" />
 </p>
 
- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit?style=for-the-badge&logo=ko-fi&logoColor=white)](https://liampajarillo.netlify.app/)
+ [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge&logo=ko-fi&logoColor=white)](https://liampajarillo.netlify.app/)
 
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?color=white&font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Liam!" alt="Typing SVG" />
