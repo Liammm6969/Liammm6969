@@ -5,9 +5,7 @@
 <p align="center">
   <img src="pics/header.png" alt="Header Image" />
 </p>
-<div align="center">
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge&logo=ko-fi&logoColor=white)](https://liampajarillo.netlify.app/)
-</div>
+
 <p align="center">
   <a href="https://liampajarillo.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge&logo=ko-fi&logoColor=white" />
