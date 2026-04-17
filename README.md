@@ -21,7 +21,7 @@
 
 - 🔭 I’m currently working on **MediSync** with [@seleraqc](https://github.com/selerqc)
 - 📖 And also I’m currently working on **BrainPal** an **AI-powered study companion: concise notes, practice quizzes, and targeted learning.**
-- 🌱 I’m currently learning **Typescript + Machine Learning (especially backend)**  
+- 🌱 I’m currently learning **Typescript + Machine Learning (especially backend) + GSAP**  
 - 🤝 I’m looking for help with **ML - Machine Learning (Python)**
 
 ---
