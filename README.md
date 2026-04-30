@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://portfolio-v2-nine-sepia.vercel.app/">
+  <a href="https:/liamm-dev.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-Visit-red?style=for-the-badge&logo=ko-fi&logoColor=white" />
   </a>
   <a href="https://linked.com/in/mark-william-pajarillo-6abb87376">
