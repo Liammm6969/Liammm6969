@@ -15,7 +15,7 @@
   </a>
 </p>
 
-<h3 align="center">An aspiring Web Developer from the Philippines</h3>
+<h3 align="center">An aspiring Developer from the Philippines</h3>
 
 ---
 
