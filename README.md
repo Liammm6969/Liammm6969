@@ -28,7 +28,6 @@
 
 ### 🚀 Projects
 
-- 📝 [MyTodo App](https://my-todo-app-io.netlify.app/) — A simple and clean to-do list web app  
 - 🍕 [ZaHaus](https://za-haus.vercel.app/) - A pizza restaurant website
 - [Attendr](https://attendr-ojt.vercel.app) - A geo-fenced attendance system
 
